@@ -1,0 +1,62 @@
+<!-- Footer -->
+<footer id="footer">
+	<ul class="icons">
+        {% if site.social.twitter_url %}
+        <li><a href="{{ site.social.twitter_url }}" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+        {% endif %}
+        {% if site.social.googleplus_url %}
+        <li><a href="{{ site.social.googleplus_url }}" class="icon fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
+        {% endif %}
+        {% if site.social.facebook_url %}
+        <li><a href="{{ site.social.facebook_url }}" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+        {% endif %}
+        {% if site.social.instagram_url %}
+        <li><a href="{{ site.social.instagram_url }}" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+        {% endif %}
+        {% if site.social.pinterest_url %}
+        <li><a href="{{ site.social.pinterest_url }}" class="icon fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+        {% endif %}
+        {% if site.social.500px_url %}
+        <li><a href="{{ site.social.500px_url }}" class="icon fa-500px" target="_blank"><span class="label">500px</span></a></li>
+        {% endif %}
+        {% if site.social.gitlab_url %}
+        <li><a href="{{ site.social.gitlab_url }}" class="icon fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
+        {% endif %}
+        {% if site.social.github_url %}
+        <li><a href="{{ site.social.github_url }}" class="icon fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+        {% endif %}
+        {% if site.social.slack_url %}
+        <li><a href="{{ site.social.slack_url }}" class="icon fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+        {% endif %}
+        {% if site.social.linkedin_url %}
+        <li><a href="{{ site.social.linkedin_url }}" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+        {% endif %}
+				{% if site.social.reddit_url %}
+				<li><a href="{{ site.social.reddit_url }}" class="icon fa-reddit" target="_blank"><span class="label">LinkedIn</span></a></li>
+				{% endif %}
+	</ul>
+	<ul class="copyright">
+		<li>&copy; {{ site.time | date: '%Y' }}  {{ site.title }}{% if site.location %} | {{ site.location }} {% endif %}</li>
+	</ul>
+</footer>
+
+<!-- Scripts -->
+<!--[if lte IE 8]><script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/main.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/emailSubscribe.js"></script>
+
+<!-- Google Analytics -->
+{% if site.google_analytics %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.google_analytics }}');
+</script>
+{% endif %}
+
+</body>
+</html>

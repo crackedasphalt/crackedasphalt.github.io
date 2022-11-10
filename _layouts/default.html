@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<!--
+	Eventually by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+{% include head.html %}
+<body>
+
+<!-- Header -->
+<header id="header">
+	<h1>{{ site.title }}</h1>
+	<p>{{ site.description }}</p>
+  {% if site.form.description %} <div class="body">{{ site.form.description }}</div>{% endif %}
+</header>
+
+<!--- Form -->
+<form name="{{ site.form.name }}" method="post" action="{{ site.form.action }}">
+  <input class="body" type="hidden" name="successurl" value="{{ site.url }}{{ site.baseurl }}/thanks.html" />
+  <input class="body" type="hidden" name="errorurl" value="{{ site.form.errorurl }}" />
+  <input class="body" type="hidden" name="token" value="{{ site.form.token }}" />
+  <input class="body" type="hidden" name="doubleoptin" value="{% if site.form.doubleoptin == true %}1{% else %}0{% endif %}" />
+
+  <div id="signup-form">
+    <input class="text" type="text" placeholder="First Name" name="fldfirstname" maxlength="100" />
+    <input class="text" type="text" placeholder="Email Address" name="fldEmail" maxlength="100" />
+    <div class="body">
+      <input type="submit" class="body" value="Sign Up" />
+    </div>
+  </div>
+</form>
+
+{% include footer.html %}
+
+</body>
+</html>

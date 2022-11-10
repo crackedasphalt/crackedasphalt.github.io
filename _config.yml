@@ -1,0 +1,38 @@
+# Site settings
+title: Cracked Asphalt Studio
+email: hello@crackedasphalt.com
+description: Packs & softgoods that transition from asphalt to alpine and embrace the journeys in between.
+location: San Francisco, California
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.crackedasphalt.com" # the base hostname & protocol for your site
+google_analytics: G-CDTJPELDNL
+
+# Form settings for Benchmark Email
+form:
+  description: To be the first to learn about new patterns and upcoming releases, subscribe below.
+  name: frmLB1737733
+  action: https://lb.benchmarkemail.com//code/lbform
+  errorurl: http://lb.benchmarkemail.com//Code/Error
+  token: mFcQnoBFKMTg0dpYklWawsVHaffN5KY0h3VVElbdZeAgGpAG5shJLg%3D%3D
+  doubleoptin: true #True if double opt in is enabled in form
+  doubleoptin_message: Please check your email to confirm your subscription to our updates.
+  thanks_message: Thank you for your interest in our projects. We look forward to sharing with you.
+  confirmed_message: Your subscription has been confirmed.
+
+
+# Social settings
+social:
+  500px_url:
+  facebook_url: "https://www.facebook.com/crackedasphalt"
+  github_url:
+  gitlab_url:
+  googleplus_url:
+  instagram_url: "https://www.instagram.com/crackedasphaltstudio"
+  linkedin_url:
+  pinterest_url:
+  slack_url:
+  twitter_url:
+  reddit_url: "https://www.reddit.com/user/crackedasphalt"
+
+# Build settings
+markdown: kramdown
