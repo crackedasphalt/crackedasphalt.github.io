@@ -23,11 +23,11 @@
   <input class="body" type="hidden" name="doubleoptin" value="{% if site.form.doubleoptin == true %}1{% else %}0{% endif %}" />
 
   <div id="signup-form">
-    <input class="text" type="text" placeholder="First Name" name="fldfirstname" maxlength="100" />
-    <input class="text" type="text" placeholder="Email Address" name="fldEmail" maxlength="100" />
-    <div class="body">
+    <input type="text" placeholder="First Name" name="fldfirstname" maxlength="100" />
+    <input type="email" placeholder="Email Address" name="fldEmail" maxlength="100" />
+
       <input type="submit" class="body" value="Sign Up" />
-    </div>
+
   </div>
 </form>
 
