@@ -7,18 +7,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.crackedasphalt.com" # the base hostname & protocol for your site
 google_analytics: G-CDTJPELDNL
 
-# Form settings for Benchmark Email
-form:
+# Form settings for Email signup form
+
+## Convertkit
+signup-form:
+  show_form: true 
   description: To be the first to learn about new patterns and upcoming releases, subscribe below.
-  name: frmLB1737733
-  action: https://lb.benchmarkemail.com//code/lbform
-  errorurl: http://lb.benchmarkemail.com//Code/Error
-  token: mFcQnoBFKMTg0dpYklWawsVHaffN5KY0h3VVElbdZeAgGpAG5shJLg%3D%3D
-  doubleoptin: true #True if double opt in is enabled in form
-  doubleoptin_message: Please check your email to confirm your subscription to our updates.
   thanks_message: Thank you for your interest in our projects. We look forward to sharing with you.
   confirmed_message: Your subscription has been confirmed.
-
 
 # Social settings
 social:
