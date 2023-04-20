@@ -10,7 +10,7 @@ google_analytics: G-CDTJPELDNL
 # Form settings for Email signup form
 
 ## Convertkit
-signup-form:
+signup_form:
   show_form: true 
   description: To be the first to learn about new patterns and upcoming releases, subscribe below.
   thanks_message: Thank you for your interest in our projects. We look forward to sharing with you.
