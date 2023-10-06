@@ -130,7 +130,7 @@
 
 					window.setTimeout(function() {
 						$message._hide();
-					}, 3000);
+					}, 8000);
 
 				};
 
@@ -163,7 +163,7 @@
 								$submit.disabled = false;
 
 							// Show message.
-								$message._show('success', 'Thank you!');
+								$message._show('success', 'Thank you! Please check your email to confirm your subscription.');
 								//$message._show('failure', 'Something went wrong. Please try again.');
 
 						}, 750);
