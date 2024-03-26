@@ -12,8 +12,7 @@ search: false
 Our kit is modest but functional. Working from a small space means having a small kit and maximizing utility of each individual component.
 
 ### Machines
-* Sailrite Ultrafeed LSZ-1
-* Worker B Power Pack
+* Sailrite Ultrafeed LSZ-1 / Worker B Power Pack
 * Singer HD 4452
 
 ### Notions
