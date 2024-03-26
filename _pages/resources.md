@@ -3,9 +3,6 @@ permalink: /resources/
 title: "Resources"
 excerpt: "Resources to help along the way"
 last_modified_at: 2024-03-25T20:24:40-08:00
-sitemap: false
-hidden: true
-search: false
 ---
 
 This page is an assortment of resources that I have documented primarily for my own reference. I'm located in the United States and the suppliers and equipment that I reference below are geared for a North American audience. YMMV. 
@@ -23,8 +20,6 @@ Thank you.
 
 ## Fabric and Component Suppliers
 
-{% include map id="1y4qCHS9zeQ1ake3ZpILre0QkH_Acwg0" provider="google" %}
-
 * [Ripstop by the Roll](https://ripstopbytheroll.com/)
 * [Quest Outfitters](https://www.questoutfitters.com/)
 * [Sailrite](https://www.sailrite.com/)
@@ -34,6 +29,8 @@ Thank you.
 * [Simply Light Designs](https://simplylightdesigns.com/)
 * [Strapworks](https://www.strapworks.com/)
 * [Mozet Supplies](https://mozetsupplies.ca/)
+
+{% include map id="1y4qCHS9zeQ1ake3ZpILre0QkH_Acwg0" provider="google" %}
 
 ## Sewing Resources
 * [reddit.com/myog](https://www.reddit.com/r/myog/)
