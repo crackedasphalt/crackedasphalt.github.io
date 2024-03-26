@@ -1,0 +1,17 @@
+{% capture embedded_document_id %}{{ include.id }}{% endcapture %}
+{% capture embedded_document_type %}{{ include.type }}{% endcapture %}
+
+{% capture embedded_document_src %}
+  {% case embedded_document_type %}
+  {% when "pdf" %}
+  {{ embedded_document_id }}#toolbar=0&navpanes=0&scrollbar=0
+  {% endcase %}
+{% endcapture %}
+{% assign embedded_document_src = embedded_document_src | strip %}
+
+<!-- Courtesy of embedresponsively.com -->
+{% unless embedded_document_src == "" %}
+  <div class="responsive-document-container">
+    <embed src="{{ embedded_document_src }}" type="application/pdf">
+  </div>
+{% endunless %}

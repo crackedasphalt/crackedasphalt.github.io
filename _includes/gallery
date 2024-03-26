@@ -1,0 +1,73 @@
+{% if include.id %}
+  {% if include.id contains "path_gallery" and page.path_gallery.path and page.path_gallery.exts %}
+    
+    {% assign allowed_exts = allowed_exts | split: "," %}
+    {% assign gallery_files = gallery_files | split: "," %}
+    {% assign static_files_reverse = site.static_files | sort: 'date' | reverse %}
+    {% assign is_path_gallery = true %}
+
+    {% for ext in page.path_gallery.exts %}
+      {% unless ext contains '.' %}
+        {% assign mod_ext = ext | prepend: "." | downcase %}
+        {% assign allowed_exts = allowed_exts | push: mod_ext %}
+        {% assign ext_fixed = true %}
+      {% endunless %}
+      {% if ext_fixed != true %}
+        {% assign mod_ext = ext | downcase %}
+        {% assign allowed_exts = allowed_exts | push: mod_ext %}
+      {% endif %}
+    {% endfor %}
+    
+    {% for file in static_files_reverse %}
+      {% if file.path contains page.path_gallery.path %}
+        {% assign file_ext_name = file.extname | downcase %}
+        {% if allowed_exts contains file_ext_name %}
+          {% assign gallery_files = gallery_files | push: file %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    
+    {% assign gallery = gallery_files %}
+    
+  {% else %}
+    {% assign gallery = page[include.id] %}
+  {% endif %}
+{% else %}
+  {% assign gallery = page.gallery %}
+{% endif %}
+
+{% if include.layout %}
+  {% assign gallery_layout = include.layout %}
+{% else %}
+  {% if gallery.size == 2 %}
+    {% assign gallery_layout = 'half' %}
+  {% elsif gallery.size >= 3 %}
+    {% assign gallery_layout = 'third' %}
+  {% else %}
+    {% assign gallery_layout = '' %}
+  {% endif %}
+{% endif %}
+
+<figure class="{{ gallery_layout }} {{ include.class }}">
+  {% for img in gallery %}
+    {% if img.url %}
+    {% if forloop.index > 1 %}-->{% endif %}<a href="{{ img.url | relative_url }}"
+        {% if img.title %}title="{{ img.title }}"{% endif %}>
+          <img src="{{ img.image_path | relative_url }}"
+               alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+      </a>{% if forloop.last %}{% else %}<!--{% endif %}
+    {% elsif is_path_gallery %}
+    {% if forloop.index > 1 %}-->{% endif %}<a href="{{ img.path | relative_url }}"
+      {% if img.basename %}title="{{ img.basename }}"{% endif %}>
+        <img src="{{ img.path | relative_url }}"
+            alt="{% if img.basename %}{{ img.basename }}{% endif %}">
+        </a>{% if forloop.last %}{% else %}<!--{% endif %}
+    {% else %}
+      {% if forloop.index > 1 %}-->{% endif %}<img src="{{ img.image_path | relative_url }}"
+           alt="{% if img.alt %}{{ img.alt }}{% endif %}">{% if forloop.last %}{% else %}<!--{% endif %}
+    {% endif %}
+  {% endfor %}
+  {% if include.caption %}
+    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% endif %}
+</figure>

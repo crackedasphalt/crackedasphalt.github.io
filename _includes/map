@@ -1,0 +1,18 @@
+{% capture map_id %}{{ include.id }}{% endcapture %}
+{% capture map_provider %}{{ include.provider }}{% endcapture %}
+{% capture map_show_profile %}{{ include.show_profile }}{% endcapture %}
+
+{% capture map_src %}
+  {% case map_provider %}
+  {% when "google" %}
+    https://www.google.com/maps/d/embed?mid={{ map_id }}&ehbc=2E312F&noprof=1
+  {% endcase %}
+{% endcapture %}
+{% assign map_src = map_src | strip %}
+
+<!-- Courtesy of embedresponsively.com -->
+{% unless map_src == "" %}
+  <div class="responsive-map-container">
+  <iframe src="{{ map_src }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+{% endunless %}

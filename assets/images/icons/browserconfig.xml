@@ -1,9 +1,15 @@
+---
+layout: null
+permalink: /assets/images/icons/browserconfig.xml
+---
+
 <?xml version="1.0" encoding="utf-8"?>
 <browserconfig>
     <msapplication>
         <tile>
             <square150x150logo src="{{site.baseurl}}/assets/images/icons/mstile-150x150.png"/>
-            <TileColor>#ffc40d</TileColor>
+            <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
 </browserconfig>
+

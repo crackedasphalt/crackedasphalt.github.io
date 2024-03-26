@@ -4,8 +4,8 @@ permalink: /assets/images/icons/site.webmanifest
 ---
 
 {
-    "name": "{{site.short_title}}",
-    "short_name": "{{site.short_title}}",
+    "name": "{{site.title}}",
+    "short_name": "{{site.title}}",
     "icons": [
         {
             "src": "{{site.baseurl}}/assets/images/icons/android-chrome-192x192.png",

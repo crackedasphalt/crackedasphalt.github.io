@@ -1,17 +1,43 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-Gemfile.lock
+# Vim
+*~
+*.sw[p_]
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Ruby Gem
 *.gem
+.bundle
+Gemfile.lock
+**/vendor/bundle
+
+# Node.js and NPM
+node_modules
+npm-debug.log*
+package-lock.json
+codekit-config.json
+
+# macOS
+.DS_Store
+
+# Jekyll generated files
 .jekyll-cache
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site
 
 # Drawings #
 *.ai
-*.svg
+#*.svg
 *.val
 
-# Created by https://www.toptal.com/developers/gitignore/api/macos,windows,git,notepadpp,python
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,git,notepadpp,python
+### Darktable ###
+*.xmp
+
+### Gimp ###
+*.xcf
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
@@ -253,4 +279,33 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,windows,git,notepadpp,python
+### NotepadPP ###
+# Notepad++ backups #
+*.bak
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# Created by https://www.toptal.com/developers/gitignore/
+
+# Manual exclusions
+_pages/styleguide.md
+_styleguide/*
+assets/images/styleguide/*
+email_template.html
