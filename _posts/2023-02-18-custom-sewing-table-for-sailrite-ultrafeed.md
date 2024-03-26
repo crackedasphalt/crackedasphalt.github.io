@@ -2,7 +2,7 @@
 title: "Custom Sewing Table for Sailrite Ultrafeed"
 permalink: /custom-sewing-table-for-sailrite-ultrafeed/
 date: 2023-02-18T17:11:41-08:00
-last_modified_at:
+last_modified_at: 2024-03-26T15:20:18-08:00
 author: Kevin
 published: true
 description: "This custom table for our Sailrite Ultrafeed sewing machine is a major quality of life improvement." 	# For OG, not displayed on page
