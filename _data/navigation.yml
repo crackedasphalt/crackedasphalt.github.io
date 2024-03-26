@@ -1,8 +1,12 @@
 # main links
 main:
+#  - title: "Guides"
+#    url: /guides/
   - title: "About"
     url: /about/
 #  - title: "Resources"
 #    url: /resources/
   - title: "Contact"
     url: /contact/
+#  - title: "Terms"
+#    url: /terms/
