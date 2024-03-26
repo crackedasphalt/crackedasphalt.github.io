@@ -8,5 +8,5 @@ main:
     url: /resources/
   - title: "Contact"
     url: /contact/
-#  - title: "Terms"
-#    url: /terms/
+  - title: "Terms"
+    url: /terms/

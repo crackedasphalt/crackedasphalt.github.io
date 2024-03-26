@@ -6,9 +6,6 @@ toc: true
 layout: single
 classes: 
  - no-sidebar
-sitemap: false
-hidden: true
-search: false
 ---
 
 ## Privacy Policy
