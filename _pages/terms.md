@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-last_modified_at: 2024-03-25T20:39:06-08:00
+last_modified_at: 2024-03-27T12:24:38-08:00
 toc: true
 layout: single
 classes: 
@@ -70,29 +70,29 @@ Visitors may unsubscribe from our email list at any time by clicking the "unsubs
 
 Visitors can access ConvertKit's privacy policy on their website at [https://convertkit.com/privacy](https://convertkit.com/privacy). This policy outlines how ConvertKit collects, stores, and uses personal information and provides information about visitors' rights and choices regarding their personal information. We encourage all visitors to review the ConvertKit Privacy Policy before submitting any personal information through our website.
 
-##### Slapform
+##### Formspree
 {: .no_toc}
 
-Slapform is a form builder tool that allows us to create custom forms and surveys to collect information from our website visitors. Slapform collects personal information such as name, email address, phone number, and other optional fields that our visitors may provide.
+Formspree is a form builder tool that allows us to create custom forms and surveys to collect information from our website visitors. Formspree collects personal information such as name, email address, phone number, and other optional fields that our visitors may provide.
 
-###### How We Use Slapform
+###### How We Use Formspree
 {: .no_toc}
 
-We use Slapform to collect information from our website visitors, such as contact details or feedback. We may also use Slapform to conduct surveys or polls to gather insights from our audience.
+We use Formspree to collect information from our website visitors, such as contact details or feedback. We may also use Formspree to conduct surveys or polls to gather insights from our audience.
 
-When visitors submit a form or survey through Slapform, we collect the information they provide and use it to respond to their inquiry or to improve our website and services. We do not share any personal information collected through Slapform with third parties, except as required by law or as necessary to provide our services.
+When visitors submit a form or survey through Formspree, we collect the information they provide and use it to respond to their inquiry or to improve our website and services. We do not share any personal information collected through Formspree with third parties, except as required by law or as necessary to provide our services.
 
-We take all reasonable steps to protect the security and confidentiality of personal information collected through Slapform.
+We take all reasonable steps to protect the security and confidentiality of personal information collected through Formspree.
 
 ###### Opting Out
 {: .no_toc}
 
-Visitors may choose not to submit their personal information through Slapform, and may instead contact us directly via email. Visitors may also choose to opt-out of receiving marketing communications from us by clicking the "unsubscribe" link at the bottom of any email communication we send.
+Visitors may choose not to submit their personal information through Formspree, and may instead contact us directly via email. Visitors may also choose to opt-out of receiving marketing communications from us by clicking the "unsubscribe" link at the bottom of any email communication we send.
 
-###### Slapform Privacy Policy
+###### Formspree Privacy Policy
 {: .no_toc}
 
-Visitors can access ConvertKit's privacy policy on their website at [https://slapform.com/privacy/](https://slapform.com/privacy/). We encourage all visitors to review the Slapform Privacy Policy before submitting any personal information through our website.
+Visitors can access Formspree's privacy policy on their website at [https://formspree.io/legal/privacy-policy](https://formspree.io/legal/privacy-policy). We encourage all visitors to review the Formspree Privacy Policy before submitting any personal information through our website.
 
 ##### Google Analytics
 {: .no_toc}
