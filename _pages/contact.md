@@ -11,7 +11,7 @@ excerpt: "Contact Cracked Asphalt Studio"
 Please email [hello@crackedasphalt.com](mailto:hello@crackedasphalt.com) for correspondence.
 
 ---
-<!---
+
 ## Via Web Form
 
 
@@ -25,7 +25,7 @@ Please email [hello@crackedasphalt.com](mailto:hello@crackedasphalt.com) for cor
 </form>
 
 ---
---->
+
 ## Via Social Media
 
 [<i class="fab fa-fw fa-reddit"></i> /u/crackedasphalt on Reddit](https://www.reddit.com/u/crackedasphalt)<br />
