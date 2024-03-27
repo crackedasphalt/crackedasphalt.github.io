@@ -1,7 +1,9 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-last_modified_at: 2024-03-27T12:24:38-08:00
+header:
+    show_overlay_excerpt: false
+last_modified_at: 2024-03-27T12:42:38-08:00
 toc: true
 layout: single
 classes: 
@@ -69,6 +71,30 @@ Visitors may unsubscribe from our email list at any time by clicking the "unsubs
 {: .no_toc}
 
 Visitors can access ConvertKit's privacy policy on their website at [https://convertkit.com/privacy](https://convertkit.com/privacy). This policy outlines how ConvertKit collects, stores, and uses personal information and provides information about visitors' rights and choices regarding their personal information. We encourage all visitors to review the ConvertKit Privacy Policy before submitting any personal information through our website.
+
+##### Payhip
+{: .no_toc}
+
+Payhip is a digital platform that enables us to sell and distribute digital products such as ebooks, courses, and software. Payhip collects personal information necessary for processing payments and delivering digital products to customers. This information may include but is not limited to email addresses, names, billing addresses, and payment details.
+
+###### How We Use Payhip
+{: .no_toc}
+
+We utilize Payhip to facilitate the sales and distribution of our digital products to customers worldwide. When customers make a purchase through Payhip, we collect necessary information to process payments, fulfill orders, and provide customer support. Payhip also assists us in managing customer accounts and providing access to digital downloads.
+
+During the checkout process, Payhip collects personal information required for transactional purposes, such as billing and shipping addresses, email addresses, and payment details. This information is used solely for the purpose of completing the transaction and delivering the purchased digital products to customers.
+
+We do not share any personal information collected through Payhip with third parties, except as required by law or as necessary to fulfill orders and provide customer support. We take appropriate measures to safeguard the security and confidentiality of personal information collected through Payhip.
+
+###### Opting Out
+{: .no_toc}
+
+Customers may opt out of receiving marketing communications from us at any time by adjusting their communication preferences within their Payhip account settings. However, customers cannot opt out of transactional communications related to their purchases, such as order confirmations and delivery notifications.
+
+###### Payhip Privacy Policy
+{: .no_toc}
+
+Customers can access Payhip's privacy policy on their website at [https://payhip.com/privacy](https://payhip.com/privacy). This policy details how Payhip collects, processes, and protects personal information, as well as customers' rights and choices regarding their data. We encourage all customers to review the Payhip Privacy Policy before making any purchases through our platform.
 
 ##### Formspree
 {: .no_toc}
