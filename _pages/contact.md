@@ -13,8 +13,8 @@ Please email [hello@crackedasphalt.com](mailto:hello@crackedasphalt.com) for cor
 ---
 
 ## Via Website
-
-<form method="POST" action="https://formspree.io/f/mwkgrlpk">
+<iframe width="0" height="0" name="formspree" frameborder="0"></iframe>
+<form method="POST" action="https://formspree.io/f/mwkgrlpk" target="formspree">
   <fieldset>
     <legend></legend>
   <input type="text" name="name" placeholder="First Name">
@@ -25,7 +25,7 @@ Please email [hello@crackedasphalt.com](mailto:hello@crackedasphalt.com) for cor
     <label for="_optin" class="small">Send me updates via email</label>
   </div>
   <br>
-  <button type="submit" class="btn btn--primary btn--large"><i class="fa-regular fa-paper-plane" aria-hidden="true"></i> Send</button>
+  <button type="submit" class="btn btn--primary btn--large" onclick="window.location.href = '/contact-form-submitted/';"><i class="fa-regular fa-paper-plane" aria-hidden="true"></i> Send</button>
 </fieldset>
 </form>
 
