@@ -353,7 +353,7 @@ signup-form:
   show_form: true 
   description: Subscribe to be first to learn about new guides, patterns, and upcoming releases.
   thanks_message: Please check your email to confirm your subscription to our updates.
-  confirmed_message: You're awesome.
+  confirmed_message: 
 
 collections:
 #  collection-example-1: # Change this value to match the name of collection
