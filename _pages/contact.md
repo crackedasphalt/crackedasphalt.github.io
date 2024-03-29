@@ -17,9 +17,14 @@ Please email [hello@crackedasphalt.com](mailto:hello@crackedasphalt.com) for cor
 <form method="POST" action="https://formspree.io/f/mwkgrlpk">
   <fieldset>
     <legend></legend>
-  <input type="text" name="name" placeholder="Name">
+  <input type="text" name="name" placeholder="First Name">
   <input type="email" name="email" placeholder="Email Address">
   <textarea name="message" placeholder="Message"></textarea>
+  <div>
+    <input type="checkbox" id="_optin" name="_optin" checked />
+    <label for="_optin" class="small">Send me updates via email</label>
+  </div>
+  <br>
   <button type="submit" class="btn btn--primary btn--large"><i class="fa-regular fa-paper-plane" aria-hidden="true"></i> Send</button>
 </fieldset>
 </form>
