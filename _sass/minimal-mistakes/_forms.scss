@@ -102,7 +102,7 @@ select {
   }
 
   @include breakpoint($small) {
-    width: calc(50% - 0.75rem);
+    width: calc(50% - 3px);
   }
 }
 
