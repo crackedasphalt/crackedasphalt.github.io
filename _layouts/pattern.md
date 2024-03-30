@@ -9,12 +9,11 @@ classes: wide
 <h2 id="{{ topic.heading | slugify }}">{{ topic.heading }}</h2>
 {{ topic.copy | markdownify }}
 {% if topic.link_path %}
-    {% assign link = topic.link_path %}
     {% case topic.link_path %}
     {% when topic.link_path contains "_posts" %}
-    <p><a href="{% link {{ link }} %}">{{ topic.link_text }}</a></p>
+    <p><a href="{% link _posts/2023-02-18-custom-sewing-table-for-sailrite-ultrafeed.md %}">{{ topic.link_text }}</a></p>
     {% else %}
-    <p><a href="{% link {{ link }} %}">{{ topic.link_text }}</a></p>
+    <p><a href="{% link _posts/2023-02-18-custom-sewing-table-for-sailrite-ultrafeed.md %}">{{ topic.link_text }}</a></p>
     {% endcase %}
 {% endif %}
 
