@@ -62,15 +62,15 @@ pattern_details:
 <!--- This content is not displayed on page. It is present for searchability--->
 <h1>Pattern Overview</h1>
 {{ page.pattern_details.pattern_overview }}
-{% assign deets = page.pattern_details %}
-{% for topic in deets.information %}
+{% assign details = page.pattern_details %}
+{% for topic in details.information %}
 <h2 id="{{ topic.heading | slugify }}">{{ topic.heading }}</h2>
 {{ topic.copy | markdownify }}
 {% if topic.link_path %}
-    <p><a href="{% link {{ topic.link_path }} %}">{{ topic.link_text }}</a></p>
+<p>{{ topic.link_text }}</p>
 {% endif %}
 
 {% endfor %}
 
-<p><a href="{{ deets.store_link }}" class="btn btn--info btn--large">Download for {{ deets.price }} at {{ deets.store_platform }}</a></p>
+<p><a href="{{ details.store_link }}" class="btn btn--info btn--large">Download for {{ details.price }} at {{ details.store_platform }}</a></p>
 <!--- End this content is not displayed on page. It is present for searchability--->
