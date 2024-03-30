@@ -341,10 +341,10 @@ defaults:
       path: ""
       type: patterns
     values:
-      layout: single
+      layout: pattern
       classes: 
-        - wide
-        - no-sidebar
+      share: true
+      search: true
 
 # Form settings for Email signup form
 
