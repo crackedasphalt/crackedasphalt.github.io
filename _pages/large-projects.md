@@ -1,6 +1,6 @@
 ---
 title: Large Projects
-excerpt: "Pattens and guides for larger and more complex pieces."
+excerpt: "Pattens, guides, and articles for larger and more complex pieces"
 layout: category
 permalink: /large-projects/
 taxonomy: Large-Project

@@ -1,6 +1,6 @@
 ---
 title: Small Projects
-excerpt: "Practice making fundamentals with these small projects"
+excerpt: "Practice fundamentals and have fun making these small projects"
 layout: category
 permalink: /small-projects/
 taxonomy: Small-Project

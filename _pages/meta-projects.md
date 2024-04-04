@@ -1,6 +1,6 @@
 ---
 title: Meta Projects
-excerpt: "Projects that improve the gear making experience, instructional content, and meta-myog."
+excerpt: "Projects that improve the gear making experience, instructional content, and meta-myog"
 layout: category
 permalink: /meta-myog/
 taxonomy: Meta-MYOG
