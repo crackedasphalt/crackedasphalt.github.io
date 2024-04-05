@@ -36,6 +36,7 @@ Please email [hello@crackedasphalt.com](mailto:hello@crackedasphalt.com) for cor
 
 [<i class="fab fa-fw fa-reddit"></i> /u/crackedasphalt on Reddit](https://www.reddit.com/u/crackedasphalt)<br />
 [<i class="fab fa-fw fa-instagram"></i> crackedasphaltstudio on Instagram](https://www.instagram.com/crackedasphaltstudio)<br />
+[<i class="fa-solid fa-fw fa-cart-shopping"></i> payhip.com/crackedasphalt](https://www.payhip.com/crackedasphalt)<br />
 <!---
 [<i class="fab fa-fw fa-twitter"></i> @cracked_asphalt on Twitter](https://twitter.com/cracked_asphalt)<br />
 [<i class="fab fa-fw fa-facebook"></i> crackedasphalt on Facebook](https://www.facebook.com/crackedasphalt)<br />
