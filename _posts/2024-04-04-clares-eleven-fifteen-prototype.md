@@ -2,7 +2,7 @@
 title: "Clare's Eleven Fifteen Prototype"
 permalink: /clares-eleven-fifteen-prototype/
 date: 2024-04-04T00:59:07-07:00
-last_modified_at:
+last_modified_at: 2024-04-05T13:29:48-08:00
 author: Kevin
 published: true
 excerpt: "Clare's Eleven Fifteen is a 15L daypack designed for a dear friend. This prototype pack turned out nice enough that I plan to use it for a while." 	# For OG, not displayed on page
@@ -21,10 +21,10 @@ tags:
     - rambling
 header:
     show_overlay_excerpt: false
-    image: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype-og.png            # Twitter (use 'overlay_image')
-    og_image: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype-og.png
-    overlay_image: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype.png    # Article header at 2048x768
-    teaser: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype-th.png  # Shrink image to 575x216
+    image: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype-og.jpg            # Twitter (use 'overlay_image')
+    og_image: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype-og.jpg
+    overlay_image: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype.jpg    # Article header at 2048x768
+    teaser: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype-th.jpg  # Shrink image to 575x216
 ---
 
 <figure style="width: 300px" class="align-right">
@@ -61,9 +61,7 @@ Conceptually, this pack is very simple:
 </figure>
 
 ## Budget
-Because this is a prototype, I wanted to keep costs low to make sure that it was going to work before using expensive fabric and components. Independent of the time I spent drafting, tinkering, measuring, and cutting the pattern, all components are listed below.
-
-This prototype is not built to last and the quality of the materials demonstrates that.
+Because this is a prototype, I wanted to keep costs low to make sure that it was going to work before using expensive fabric and components. Ignoring the cost of time I spent drafting, tinkering, measuring, and cutting the pattern, this prototype was very inexpensive to make. This prototype is not built to last and the quality of the materials demonstrates that. All components are listed below.
 
 | **Item** | **Style and Quantity** | **Cost or Estimated Cost** |
 | Exterior and liner fabric | 3/4 yard of deeply discounted Sunbrella fabric | $5 from a local fabric store |
@@ -136,7 +134,7 @@ Of these steps, no single one was complicated but I did, admittedly, forget to a
 
 Again, the materials that this prototype is made of will not go the distance but we've started putting it through its paces and it's performing surprisingly well. So far, it's survived a couple of overnight stays away from home, daily carry to work and back, a couple of short hikes, and a brewery visit. I've not owned a pack this small since grade school but I can see how a grown adult would like it for its size and versatility. Overall, I'm very satisfied with the shape and fit of the prototype and it seems likely that the actual piece will not require significant revisions.
 
-But please don't look at the sloppy stitching.
+This pack was a pleasure to make and is a delight to use but please don't look at the sloppy stitching.
 
 <figure class="uno">
 	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/19.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-19.jpg">
