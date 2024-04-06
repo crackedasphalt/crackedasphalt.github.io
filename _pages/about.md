@@ -26,9 +26,10 @@ I'm still working on that perfect pack.
   <figcaption>Kevin & HP</figcaption>
 </figure>
 
-My partner and I have called the Lower Haight in San Francisco home since 2010. We both grew up in Western Washington in the shadow of _The Mountain_. We travel frequently and are militant one bag packers: 30 liters or less. Any more and you're carrying too much.
+My partner and I have called the Lower Haight in San Francisco home since 2010. We both grew up in Western Washington in the shadow of The Mountain. We travel frequently and are militant one bag packers: 30 liters or less. Any more and you're carrying too much.
 
 Things we love
+
 * top-loading backpacks
 * mission burritos
 * window seats on an airplane
@@ -49,12 +50,14 @@ Things we love
   <img src="/assets/images/about/dad-boys-crater-lake.jpg" alt="Dad, me, and brothers. On PCT at Crater Lake summer 2008.">
   <figcaption>Dad, me, and brothers. On PCT at Crater Lake summer 2008.</figcaption>
 </figure>
+
 While I was growing up, Dad prioritized taking his boys to the woods and, from his example, I gained a sense of exploration. When I was very young, at least a few times a year, he would pack up the truck and haul my brothers and me on a trip up the gravel and dirt fire roads of the Cascades on a trip that we affectionately called Boys Weekend. Dad has four sons, my brothers, and Boys Weekend was a chance to let us run off some steam in an environment where taking risks was encouraged while Dad scoped out the primo hunting locations for the upcoming season.
 
 <figure style="width: 250px" class="align-right">
   <img src="/assets/images/about/t501-t2000.jpg" alt="First 50 miler with Troop 501 circa 1999.">
   <figcaption>First 50 miler with Troop 501 circa 1999.</figcaption>
 </figure>
+
 As the boys grew, so did our ambitions in the outdoors. Boys Weekend evolved to section hikes on the Pacific Crest Trail, often with a weekend mileage north of 70. Dad showed us the ropes of winter camping, how to safely traverse a snowfield, and everything I know about cycling safely on the rural highways of Western Washington.
 
 Cracked Asphalt is dedicated to you, Dad.
@@ -67,9 +70,11 @@ Cracked Asphalt is dedicated to you, Dad.
 ## FAQ
 
 ### Would you like to collaborate with me on a project?
+
 Probably. [Hit us up][contact-page]!
 
 ### Do you make gear I can buy?
+
 Not at the moment. If this changes in the future, we will announce it via our mailing list.
 
 ### What's with the name?
@@ -77,6 +82,7 @@ Not at the moment. If this changes in the future, we will announce it via our ma
 I grew up in the country and now live in the city. Cracked Asphalt represents the gaps between obligations of daily urban life that take me back to my roots: hiking, camping, travel, mountaineering, and cycling. It is named for the footpaths and bicycle lanes of the city that we hail from.
 
 ### Do you accept commissions?
+
 Occasionally. Feel free to [reach out][contact-page].
 
 [contact-page]: {% link _pages/contact.md %}

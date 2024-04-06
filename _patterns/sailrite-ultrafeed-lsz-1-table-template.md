@@ -27,6 +27,7 @@ sidebar: # Custom left sidebar options.
     - title: # An extra title just to show nav=true. This is where the nav bar (if enabled) will go.
       nav: true # references a given key in _data/navigation.yml so make sure they match or leverage sidebar.loc=true/false
 ---
+
 # Pattern Overview
 
 We spent hours and hours meticulously measuring and refining this template to take the guess work out of cutting and routing a hole in our sewing table. We hope you find it useful.

@@ -45,6 +45,7 @@ Clare's Eleven Fifteen is a 15L daypack designed for a dear friend. This prototy
 </figure>
 
 ## Concept
+
 Clare's Eleven Fifteen is the second pack that I have designed from the ground up drawing inspiration from some backpacks that she showed me on the internet that afternoon and also from some other travel gear that I've seen her bring with her on our near annual trips. I drew additional inspiration from an old REI backpack I used as a kid that was already vintage when I was using it in the early 90s. I miss that pack.
 
 Conceptually, this pack is very simple:
@@ -61,6 +62,7 @@ Conceptually, this pack is very simple:
 </figure>
 
 ## Budget
+
 Because this is a prototype, I wanted to keep costs low to make sure that it was going to work before using expensive fabric and components. Ignoring the cost of time I spent drafting, tinkering, measuring, and cutting the pattern, this prototype was very inexpensive to make. This prototype is not built to last and the quality of the materials demonstrates that. All components are listed below.
 
 | **Item** | **Style and Quantity** | **Cost or Estimated Cost** |
@@ -76,6 +78,7 @@ Because this is a prototype, I wanted to keep costs low to make sure that it was
 |  | **Total** | **Roughly $25** | 
 
 ## Planning
+
 After a basic sketch (read: a drawing indistinguishable from that of a toddler) and some measurements that I ripped off from the internet, I spent the bulk of the time planning this backpack in Valentina and in my head.  There aren't any particularly complicated elements of this pack but I did spend a good deal of time contemplating sizing.
 
 The pack itself measures up at roughly 14"H x 10"W x 4.5"D (35.5cm W x 25.5cm H x 11.5cm W), features a drawstring main enclosure, webbing and g hook lid latch, one interior slip pocket, one interior 3D pocket roughly the size of an iPhone 11, and a padded laptop pocket suitable for an old 14" MacBook Air.
@@ -101,6 +104,7 @@ I had spent enough time with this pattern while drafting it that I originally th
 </figure>
 
 ## Assembly
+
 At the machine, construction of this prototype was straightforward enough but painstakingly slow due to obsessive attention to detail and an intense, almost obsessive, desire to avoid using the seam ripper. Because this was the first and only version of this pack, I spent zero time trying to optimize steps and had to retool my machines a few times to accommodate different stitch types and lengths which added a significant amount of time to the build.
 
 The basic assembly steps are
@@ -142,6 +146,7 @@ This pack was a pleasure to make and is a delight to use but please don't look a
 </figure>
 
 ## Notes for Revisions
+
 As with all prototypes, the goal of the effort is to observe the process and usage of the final product. With this prototype we learned
 
 <figure style="width: 300px" class="align-right">

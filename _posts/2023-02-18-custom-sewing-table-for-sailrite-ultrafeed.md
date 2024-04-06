@@ -42,6 +42,7 @@ It was time for dedicated table for my machine. For cost reasons and to ensure t
 </figure>
 
 ## Concept
+
 Sailrite makes a table for their Ultrafeed machines. By all estimates, it looks _fine_ I suppose but not something that I had planned to purchase. My beefs with it are three:
 1. It is expensive clocking in at nearly $400. I figured I could do this for way less.
 2. It's sized for sewing and not much else. To justify having a table in my small apartment that is always out and always has my machine mounted in it, I needed this table to also serve as a workspace for other sewing related tasks such as drafting, cutting, and documentation.
@@ -50,6 +51,7 @@ Sailrite makes a table for their Ultrafeed machines. By all estimates, it looks 
 Fortunately, my buddy recently updated all of the furniture in his office offered me a simple table which I gladly took off his hands. It's slightly wider than Sailrite's commercially available model at 61"[^1] which, as it turns out, is a perfect size to hold both the machine and provide for ample space to the left of the machine for large assemblies and for cutting. The table is a simple Ikea counter surface measuring 61" W x 29.5" D mounted to a relatively inexpensive Ikea table frame. It's nothing fancy, to be sure, but it gets the job done.
 
 ## Budget
+
 I wanted to do this as cheaply as possible but I still wanted it to look good. I was lucky enough to get a free table which helped keep the cost extremely low. If you don't already have a surface in mind, I recommend checking Craigslist or Facebook Marketplace to see what can be had second hand instead of buying new.
 
 | Table | $0 |
@@ -58,6 +60,7 @@ I wanted to do this as cheaply as possible but I still wanted it to look good. I
 | **Total** | **$17.10 and a few hours** | 
 
 ## Planning
+
 There are lots of instructional guides available for DIY sewing tables. Most of these tables feature a recessed or support structure under the table surface on which the sewing machine sits when in use. For my aesthetic, these tables seem to all have the same problem resulting in a sloppy, disjointed look where the recessed machine and the table surface meet.
 
 To ensure a snug fit, I wanted to recreate the hole in the factory Ultrafeed case that came with this machine. I searched for hours online to no avail and ultimately determined that I would have to draw it myself. Using a similar method to what Stephen Jones demonstrates in [this YouTube tutorial](https://youtu.be/XG_8CRurW3Y "How to Digitize a Sewing Pattern"), I measured the case that came with my Sailrite Ultrafeed LSZ-1 and traced out the paths that would ultimately form the required cuts. By iterating the drawing in Illustrator, I was able to draw a very close recreation of the factory cuts which lined up nearly perfectly when printed and cut out.
@@ -87,6 +90,7 @@ The dimensions for this pan are 9" (including the flange) x 15" x 2" deep.
 
 
 ## Assembly
+
 I printed and cut two copies of the template, determined exactly where in the table I was going to cut this hole, and traced the template on the table with a permanent marker.
 
 After taking a deep breath realizing that I have exactly one chance to make this work, I drilled a pilot in the board and began cutting out the inner path with a jigsaw to form the hole. Once the hole was cut, I set the router to 5/16" and removed material around the lip of the hole to form the recess for the machine to rest on.
@@ -117,6 +121,7 @@ I installed the hinges that I had purchased from Sailrite and Dad helped me fit 
 I am not a woodworker and the quality of the cuts make that abundantly clear. Fortunately, my sloppy work is almost entirely hidden by the machine when it's in the table. Overall, I’m very happy with the outcome and extremely pleased with the price.
 
 ## Template
+
 Interested in doing something similar but having the same problem that I did finding an official cut template for your Sailrite Ultrafeed? Download the template that I created in the link below. Available in both large format/A0 and letter/A4.
 
 [Get the template][template-path]{: .btn .btn--info .btn--large}

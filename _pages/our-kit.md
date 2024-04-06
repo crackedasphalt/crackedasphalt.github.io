@@ -12,12 +12,14 @@ search: false
 
 Our kit is modest but functional. Working from a small space means having a small kit and maximizing utility of each individual component.
 
-### Machines
+## Machines
 * Sailrite Ultrafeed LSZ-1 / Worker B Power Pack
 * Singer HD 4452
 
-### Notions
-#### Sewing
+## Notions
+
+### Sewing
+
 * Sailright Ultrafeed LSZ-1 Right Zipper Foot
 * Machine lamp
 * 1" swing away binder
@@ -29,7 +31,9 @@ Our kit is modest but functional. Working from a small space means having a smal
 * Wonder clips
 * Bobbins
 * Double-sided tape
-##### Needles
+
+#### Needles
+
 * Groz Beckert 135x17 #18 needles
 * Schmetz 137x17 Needle assortment
 * Schmetz Microtex
@@ -37,7 +41,8 @@ Our kit is modest but functional. Working from a small space means having a smal
 * Schmetz Stretch
 * Schmetz Ball Point
 
-#### Cutting
+### Cutting
+
 * Scissors (cheap)
 * Scissors (not cheap)
 * Small scissors (cheap)
@@ -50,12 +55,14 @@ Our kit is modest but functional. Working from a small space means having a smal
 * Rotary cutter blades
 * Sand paper
 
-#### Measuring
+### Measuring
+
 * 18"x3" quilting ruler
 * Blue masking tape
 * Sewing gauge
 
-#### Marking
+### Marking
+
 * Sharpie metallic silver
 * Sharpie fine point
 * Sharpie ultra fine point
@@ -70,25 +77,30 @@ Our kit is modest but functional. Working from a small space means having a smal
 * Pencil Sharpener
 * Pilot G-2 07
 
-#### Patterning
+### Patterning
+
 * Hole punch
 * Hole punch circles
 * Art Bag
 * Stainless wire loops
 
-### Machine Maintenance
+## Machine Maintenance
+
 * White Diamond Zoom Spout Sewing Machine Oil
 * Slotted screwdriver small
 * Slotted screwdriver large
 * Metric Box Wrenches sizes 9-14
 
-### Other
-* Table
+## Other
+
+* [Table][table-post-path]
 * Cutting table
 * Dowel
 * Assorted dairy product cups with lids
 
 ## Additional Resources
+
 For additional resources, visit [this page][resources].
 
 [resources]: {% link _pages/resources.md %}
+[table-post-path]: {% link _posts/2023-02-18-custom-sewing-table-for-sailrite-ultrafeed.md %}
