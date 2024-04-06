@@ -6,6 +6,8 @@ author_profile: true
 author: Kevin
 ---
 
+# From Urban Pavement to Outdoor Passion: The Cracked Asphalt Story
+
 ## In the Beginning
 
 It was 2020 and there was no toilet paper to be had. Worse yet, I was looking down the barrel of a summer indoors, travel out of the question, and more time on my hands than ever before in my adult life. I had been planning to make my own pack for many years after endlessly complaining about meaningless details of every pack I've ever owned--trouble was, I didn't know the first thing about sewing. The timing just made sense and I committed: I would learn to sew during 2020 to keep myself occupied. After a few months of scouring, I was able to source a domestic machine (super competitive in 2020,) ordered some technical fabric and fasteners, and got into a project way over my head almost immediately.

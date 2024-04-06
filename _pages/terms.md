@@ -10,6 +10,12 @@ classes:
  - no-sidebar
 ---
 
+# The Forest Boundary: Our Terms and Policies
+
+At Cracked Asphalt Studio, we value transparency and clarity in all aspects of our interactions with our visitors, customers, and community. Our Terms page outlines the terms and conditions that govern the use of our website, products, and services. By accessing or using any part of our website, you agree to comply with these terms. Please take a moment to review the following terms carefully.
+
+If you have any questions or concerns about our terms and conditions, please don't hesitate to contact us at hello@crackedasphalt.com. Thank you for your interest in Cracked Asphalt Studio, and we hope you enjoy your journey with us.
+
 ## Privacy Policy
 
 Cracked Asphalt Studio operates the website www.crackedasphalt.com. This policy outlines how we collect, use, and share personal information from visitors to the site.

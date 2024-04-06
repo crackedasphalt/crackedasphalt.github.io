@@ -8,7 +8,8 @@ hidden: true
 search: false
 ---
 
-## Kit
+# Resupply Point: Our Kit
+
 Our kit is modest but functional. Working from a small space means having a small kit and maximizing utility of each individual component.
 
 ### Machines
