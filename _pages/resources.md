@@ -5,7 +5,7 @@ excerpt: "Resources to help along the way"
 last_modified_at: 2024-03-25T20:24:40-08:00
 ---
 
-# Supply Routes
+# A Resupply Point
 
 This page is an assortment of resources that I have documented primarily for my own reference. I'm located in the United States and the suppliers and equipment that I reference below are geared for a North American audience. YMMV. 
 

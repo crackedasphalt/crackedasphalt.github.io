@@ -6,7 +6,7 @@ author_profile: true
 author: Kevin
 ---
 
-# From Urban Pavement to Outdoor Passion: The Cracked Asphalt Story
+# Asphalt and Alpine: The Cracked Asphalt Story
 
 ## In the Beginning
 
