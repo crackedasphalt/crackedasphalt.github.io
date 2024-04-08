@@ -10,4 +10,5 @@ sitemap: false
 search: false
 hidden: true
 ---
+
 {{ site.signup-form.confirmed_message }}
