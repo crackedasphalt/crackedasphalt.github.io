@@ -2,7 +2,7 @@
 title: "Clare's Eleven Fifteen Prototype"
 permalink: /clares-eleven-fifteen-prototype/
 date: 2024-04-04T00:59:07-07:00
-last_modified_at: 2024-04-05T13:29:48-08:00
+last_modified_at: 2024-04-08T15:51:19-08:00
 author: Kevin
 published: true
 excerpt: "Clare's Eleven Fifteen is a 15L daypack designed for a dear friend. This prototype pack turned out nice enough that I plan to use it for a while." 	# For OG, not displayed on page
@@ -66,12 +66,13 @@ Conceptually, this pack is very simple:
 Because this is a prototype, I wanted to keep costs low to make sure that it was going to work before using expensive fabric and components. Ignoring the cost of time I spent drafting, tinkering, measuring, and cutting the pattern, this prototype was very inexpensive to make. This prototype is not built to last and the quality of the materials demonstrates that. All components are listed below.
 
 | **Item** | **Style and Quantity** | **Cost or Estimated Cost** |
-| Exterior and liner fabric | 3/4 yard of deeply discounted Sunbrella fabric | $5 from a local fabric store |
+| Exterior fabric | 3/4 yard of deeply discounted Sunbrella fabric | $5 from a local fabric store |
+| Liner fabric | 3/4 yard of 1.1oz rip stop nylon | $4 from RBTR[^6] |
 | 2-way stretch mesh | 28 square inches | Harvested from an old pair of worn out leggings (yes, this is 4-way stretch but good enough for the prototype) |
 | Webbing | Roughly 5 yards of 3/4" 2001 webbing | $4 from Quest Outfitters[^1] | 
-| Closed cell foam | Way less than half a yard of 1/8" foam | $10.50 from Seattle Fabrics[^2] | 
+| Closed cell foam | Way less than half a yard of 1/8" foam, probably closer to a quarter yard | $8 from Seattle Fabrics[^2] | 
 | Velcro | Negligible amounts | Let's call it $1 from a local hardware store |
-| Drawcord | 45" of some random scrap cordage | Who even knows? Maybe $2? |
+| Drawcord | 45" of some random scrap cordage | Who even knows? Maybe $1? |
 | Cord lock | A single one | $.35 from Ripstop by the Roll[^3] (but you have to buy a dozen) |
 | 3/4" plastic g hooks | 2 of them | $.75 from Ripstop by the Roll[^4] (but again, they ship by the dozen) |
 | 3/4" Plastic ladder locks | 2x #3009| $.66 from Quest Outfitters[^5] |
@@ -93,7 +94,7 @@ Without exaggeration, I likely spent 10x+ the amount of time sorting out the dim
 
 ## Preparation
 
-I cleaned up the pattern after exporting from Valentina and sent a PDF off for print. Fortunately, I had all of the necessary components on hand so there was no need to wait for fabric or hardware. A few days later, the freshly printed pattern arrived in the mail, we cut it out, traced and cut the fabric panels, and were ready to start sewing.
+I cleaned up the pattern after exporting from Valentina and sent a PDF off for print. Fortunately, I had all of the necessary components on hand so there was no need to wait for fabric or hardware. A few days later, the freshly printed pattern arrived in the mail. We cut it out, traced and cut the fabric panels, and we were ready to start sewing.
 
 I had spent enough time with this pattern while drafting it that I originally thought there was no need to document the anticipated assembly steps. I did anyway and I'm glad that I did since we hit some snags.
 
@@ -105,7 +106,7 @@ I had spent enough time with this pattern while drafting it that I originally th
 
 ## Assembly
 
-At the machine, construction of this prototype was straightforward enough but painstakingly slow due to obsessive attention to detail and an intense, almost obsessive, desire to avoid using the seam ripper. Because this was the first and only version of this pack, I spent zero time trying to optimize steps and had to retool my machines a few times to accommodate different stitch types and lengths which added a significant amount of time to the build.
+At the machine, construction of this prototype was straightforward enough but painstakingly slow due to neurotic attention to detail and an intense, almost obsessive, desire to avoid using the seam ripper. Because this was the first and only version of this pack, I spent zero time trying to optimize steps and had to retool my machines a few times to accommodate different stitch types and lengths which added a significant amount of time to the build.
 
 The basic assembly steps are
 1.  Form the lid
@@ -113,7 +114,7 @@ The basic assembly steps are
 3.  Create the interior phone pocket and attach it to the lining
 4.  Attach necessary components to front/side then form a unified front/side/base panel
 5.  Squish and seal piece of foam in between the back panel and the back panel lining
-6.  Sew the laptop pocket and attach it to the now complete back panel along with the shoulder straps, lid, and haul loop to the back
+6.  Sew the laptop pocket and attach it to the now complete back panel along with the shoulder straps, lid, and haul loop
 7.  One big seam to form the pack inside out
 8.  Attach and thread the drawcord channel
 9.  Turn it out and feel genuine surprise that this came together as well as it did
@@ -172,3 +173,4 @@ Footnotes
 [^3]: [Regular Cord Lock sold by the dozen](https://ripstopbytheroll.com/collections/plastic-cordlocks/products/regular-cordlock)
 [^4]: [Tension G Hook sold by the dozen](https://ripstopbytheroll.com/products/tension-hook?variant=41595581235370)
 [^5]: [Plastic #3009 Ladder Lock](https://www.questoutfitters.com/Fasteners_%20Tensioners.htm#LADDERLOCS)
+[^6]: [1.1oz Ripstop Nylon](https://ripstopbytheroll.com/products/1-1-oz-ripstop-nylon)
