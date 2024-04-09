@@ -10,6 +10,9 @@
 -->
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
+    {% if jekyll.environment == 'production' and site.analytics.provider == "google-tag-manager" and page.analytics != false %}
+      {% include head/google-tag-manager.html %}
+    {% endif %}
     {% include head.html %}
     {% include head/custom.html %}
   </head>
