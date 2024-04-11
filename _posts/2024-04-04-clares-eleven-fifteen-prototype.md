@@ -23,8 +23,8 @@ header:
     show_overlay_excerpt: false
     image: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype-og.jpg            # Twitter (use 'overlay_image')
     og_image: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype-og.jpg
-    overlay_image: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype.jpg    # Article header at 2048x768
-    teaser: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype-th.jpg  # Shrink image to 575x216
+    overlay_image: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype.jpg    # Article header at 2048x1024
+    teaser: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype-th.jpg  # Shrink image to 575x288
 ---
 
 <figure style="width: 300px" class="align-right">

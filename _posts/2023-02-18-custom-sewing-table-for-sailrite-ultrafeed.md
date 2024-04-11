@@ -27,8 +27,8 @@ header:
     show_overlay_excerpt: false
     image: /assets/images/2023/02/18/custom-sewing-table-for-sailrite-ultrafeed/custom-sewing-table-for-sailrite-ultrafeed-og.png            # Twitter (use 'overlay_image')
     og_image: /assets/images/2023/02/18/custom-sewing-table-for-sailrite-ultrafeed/custom-sewing-table-for-sailrite-ultrafeed-og.png
-    overlay_image: /assets/images/2023/02/18/custom-sewing-table-for-sailrite-ultrafeed/custom-sewing-table-for-sailrite-ultrafeed.png    # Article header at 2048x768
-    teaser: assets/images/2023/02/18/custom-sewing-table-for-sailrite-ultrafeed/custom-sewing-table-for-sailrite-ultrafeed-th.png  # Shrink image to 575x216
+    overlay_image: /assets/images/2023/02/18/custom-sewing-table-for-sailrite-ultrafeed/custom-sewing-table-for-sailrite-ultrafeed.png    # Article header at 2048x1024
+    teaser: assets/images/2023/02/18/custom-sewing-table-for-sailrite-ultrafeed/custom-sewing-table-for-sailrite-ultrafeed-th.png  # Shrink image to 575x288
 ---
 
 I had been sewing primarily on my Sailrite Ultrafeed LSZ-1, in its carry case, for a year before I discovered that I had a problem. Projects were taking longer and starting less and less frequently when I realized that I had been delaying and, quite frankly, dreading the start of new projects purely because of the setup involved. Inertia around setting up before and cleaning up after a project was zapping my desire to sew.

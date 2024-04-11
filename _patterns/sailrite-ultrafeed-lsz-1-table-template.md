@@ -5,8 +5,8 @@ header:
     show_overlay_excerpt: false
     image: /assets/images/patterns/sailrite-ultrafeed-lsz-1-table-template/custom-sewing-table-for-sailrite-ultrafeed-og.png            # Twitter (use 'overlay_image')
     og_image: /assets/images/patterns/sailrite-ultrafeed-lsz-1-table-template/custom-sewing-table-for-sailrite-ultrafeed-og.png
-    overlay_image: /assets/images/patterns/sailrite-ultrafeed-lsz-1-table-template/custom-sewing-table-for-sailrite-ultrafeed.png    # Article header at 2048x768
-    teaser: /assets/images/patterns/sailrite-ultrafeed-lsz-1-table-template/custom-sewing-table-for-sailrite-ultrafeed-th.png  # Shrink image to 575x216
+    overlay_image: /assets/images/patterns/sailrite-ultrafeed-lsz-1-table-template/custom-sewing-table-for-sailrite-ultrafeed.png    # Article header at 2048x1024
+    teaser: /assets/images/patterns/sailrite-ultrafeed-lsz-1-table-template/custom-sewing-table-for-sailrite-ultrafeed-th.png  # Shrink image to 575x288
 sidebar: # Custom left sidebar options.
   nav_loc: # true/false
   nav_items: # populate this if nav_loc=true
@@ -25,7 +25,7 @@ sidebar: # Custom left sidebar options.
     - title: Skill Level # A third title
       text: Nobody at Cracked Asphalt is a woodworker and this turned out alright. Take your time and watch your fingers. # more text still
     - title: # An extra title just to show nav=true. This is where the nav bar (if enabled) will go.
-      nav: true # references a given key in _data/navigation.yml so make sure they match or leverage sidebar.loc=true/false
+      nav: false # references a given key in _data/navigation.yml so make sure they match or leverage sidebar.loc=true/false
 ---
 
 # Pattern Overview
@@ -58,7 +58,7 @@ If you have found this resource to be helpful, please consider [sharing a pictur
 
 The template is available for free via Payhip. Provide your email address when downloading to stay in touch or give us a fake email. Either way is fine.
 
-[Download for $0 at Payhip](https://payhip.com/b/ieTMb){: .btn .btn--info .btn--large}
+[<i class="fa-regular fa-circle-down"></i> Download for $0 at Payhip](https://payhip.com/b/ieTMb){: .btn .btn--info .btn--large}
 
 [post-path]: {% link _posts/2023-02-18-custom-sewing-table-for-sailrite-ultrafeed.md %}
 [contact-path]: {% link _pages/contact.md %}
