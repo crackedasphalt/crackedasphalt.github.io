@@ -59,7 +59,7 @@ Use whichever you wish <i class="fa-regular fa-hand-peace"></i>
 
 ## Additional Information
 
-You can learn more about this svg file and template including how we installed the decal on our Nalgene [here][post-path].
+You can learn more about this svg file and template including how we installed the decal on our Nalgene [here](/a-diy-solution-to-worn-nalgene-volume-markings/).
 
 ## Send Pics
 
@@ -69,6 +69,6 @@ If you have found this svg file helpful, please consider [sending us][contact-pa
 
 [<i class="fa-regular fa-circle-down"></i> Download for $0 from Payhip](https://payhip.com/b/IXFe8){: .btn .btn--info .btn--large}
 
-[post-path]: {% link _posts/2024-04-13-a-diy-solution-to-worn-nalgene-volume-markings.md %}
+
 [contact-path]: {% link _pages/contact.md %}
 
