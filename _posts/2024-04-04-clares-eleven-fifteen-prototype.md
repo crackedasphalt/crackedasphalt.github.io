@@ -28,7 +28,7 @@ header:
 ---
 
 <figure style="width: 300px" class="align-right">
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/01.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-01.jpg"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/01.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-01.jpg" alt="Clare"></a>
 	<figcaption>Clare</figcaption>
 </figure>
 
@@ -39,8 +39,8 @@ On one such walk last September, her infant daughter in sling and the dog in tow
 Clare's Eleven Fifteen is a 15L daypack designed for a dear friend. This prototype pack turned out nice enough that I plan to use it for a while.
 
 <figure class="uno">
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/02.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-02.jpg"></a>
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/03.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-03.jpg"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/02.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-02.jpg" alt="Pack testing by Heather."></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/03.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-03.jpg" alt="Pack testing by Heather"></a>
 	<figcaption>Pack testing by Heather.</figcaption>
 </figure>
 
@@ -55,9 +55,9 @@ Conceptually, this pack is very simple:
 - Black. It has to be black. (oops)
 
 <figure class="third">
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/04.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-04.jpg"></a>
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/05.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-05.jpg"></a>
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/06.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-06.jpg"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/04.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-04.jpg" alt="Front view of Clare's Eleven Fifteen Daypack"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/05.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-05.jpg" alt="Back view of Clare's Eleven Fifteen Daypack"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/06.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-06.jpg" alt="Inside view of Clare's Eleven Fifteen Daypack"></a>
 	<figcaption>Front, back, and inside. Inside view shows laptop pocket and two utility pockets.</figcaption>
 </figure>
 
@@ -85,8 +85,8 @@ After a basic sketch (read: a drawing indistinguishable from that of a toddler) 
 The pack itself measures up at roughly 14"H x 10"W x 4.5"D (35.5cm W x 25.5cm H x 11.5cm W), features a drawstring main enclosure, webbing and g hook lid latch, one interior slip pocket, one interior 3D pocket roughly the size of an iPhone 11, and a padded laptop pocket suitable for an old 14" MacBook Air.
 
 <figure class="half">
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/07.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-07.jpg"></a>
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/08.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-08.jpg"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/07.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-07.jpg" alt="Clare's Eleven Fifteen Daypack Pattern under development in Valentina"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/08.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-08.jpg" alt="Cleaning vector paths for Clare's Eleven Fifteen pattern in Illustrator"></a>
 	<figcaption>Original pattern (left), and cleaned up for print (right).</figcaption>
 </figure>
 
@@ -99,8 +99,8 @@ I cleaned up the pattern after exporting from Valentina and sent a PDF off for p
 I had spent enough time with this pattern while drafting it that I originally thought there was no need to document the anticipated assembly steps. I did anyway and I'm glad that I did since we hit some snags.
 
 <figure class="half">
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/09.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-09.jpg"></a>
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/10.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-10.jpg"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/09.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-09.jpg" alt="Clare's Eleven Fifteen pattern printed"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/10.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-10.jpg" alt="Clare's Eleven Fifteen pattern cut out"></a>
 	<figcaption>Pattern printed and cut.</figcaption>
 </figure>
 
@@ -120,11 +120,11 @@ The basic assembly steps are
 9.  Turn it out and feel genuine surprise that this came together as well as it did
 
 <figure class="half">
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/11.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-11.jpg"></a>
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/12.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-12.jpg"></a>
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/13.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-13.jpg"></a>
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/14.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-14.jpg"></a>
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/15.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-15.jpg"></a>	<figcaption>Various stages of construction.</figcaption>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/11.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-11.jpg" alt="Front panel of Clare's Eleven Fifteen Daypack during assembly"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/12.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-12.jpg" alt="Inside back panel and laptop pocket of Clare's Eleven Fifteen during assembly"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/13.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-13.jpg" alt="Outside back panel of Clare's Eleven Fifteen during assembly"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/14.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-14.jpg" alt="Front view of completed Clare's Eleven Fifteen Daypack against cutting mat"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/15.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-15.jpg" alt="Back view of completed Clare's Eleven Fifteen Daypack against cutting mat"></a>	<figcaption>Various stages of construction.</figcaption>
 </figure>
 
 Of these steps, no single one was complicated but I did, admittedly, forget to attach the lid before I sewed the whole thing up. Seam ripping the whole thing back apart was fun. That's what we'll say.
@@ -132,8 +132,8 @@ Of these steps, no single one was complicated but I did, admittedly, forget to a
 ## Final Product
 
 <figure class="half">
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/16.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-16.jpg"></a>
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/17.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-17.jpg"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/16.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-16.jpg" alt="Clare's Eleven Fifteen Daypack completed and loaded"></a>
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/17.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-17.jpg" alt="Clare's Eleven Fifteen Daypack open"></a>
 	<figcaption>Finished pack with test load.</figcaption>
 </figure>
 
@@ -142,7 +142,7 @@ Again, the materials that this prototype is made of will not go the distance but
 This pack was a pleasure to make and is a delight to use but please don't look at the sloppy stitching.
 
 <figure class="uno">
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/19.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-19.jpg">
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/19.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-19.jpg" alt="Heather modeling Clare's Eleven Fifteen Daypack on her way home from work">
 	<figcaption>Heather models the prototype on her way home from work.</figcaption></a>
 </figure>
 
@@ -151,7 +151,7 @@ This pack was a pleasure to make and is a delight to use but please don't look a
 As with all prototypes, the goal of the effort is to observe the process and usage of the final product. With this prototype we learned
 
 <figure style="width: 300px" class="align-right">
-	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/18.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-18.jpg">
+	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/18.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-18.jpg" alt="Sketch of pocket adjustments that will be required">
 	<figcaption>Sketch of pocket adjustments that will be required.</figcaption></a>
 </figure>
 
