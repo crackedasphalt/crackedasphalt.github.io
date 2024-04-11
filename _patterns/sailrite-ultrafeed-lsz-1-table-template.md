@@ -1,5 +1,6 @@
 ---
 title: "Template for Sailrite Ultrafeed LSZ-1 Table"
+permalink: /patterns/sailrite-ultrafeed-lsz-1-table-template/
 excerpt: "This template can help you to trace and cut the correct size hole in a table or other surface to flush-mount accommodate a Sailrite Ultrafeed LSZ-1."
 header:
     show_overlay_excerpt: false
@@ -27,8 +28,6 @@ sidebar: # Custom left sidebar options.
     - title: # An extra title just to show nav=true. This is where the nav bar (if enabled) will go.
       nav: false # references a given key in _data/navigation.yml so make sure they match or leverage sidebar.loc=true/false
 ---
-
-# Pattern Overview
 
 We spent hours and hours meticulously measuring and refining this template to take the guess work out of cutting and routing a hole in our sewing table. We hope you find it useful.
 

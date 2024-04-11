@@ -6,7 +6,7 @@ header:
 excerpt: "Contact Cracked Asphalt Studio"
 ---
 
-# How You Can Reach Us
+If you'e interested in reaching us, there are numerous ways to do so.
 
 ## Via Email
 

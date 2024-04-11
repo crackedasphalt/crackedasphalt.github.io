@@ -1,12 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "Asphalt and Alpine: The Cracked Asphalt Story"
 excerpt: "Cracked Asphalt is a design studio specializing in softgoods. We are based in San Francisco, California."
 author_profile: true
 author: Kevin
 ---
-
-# Asphalt and Alpine: The Cracked Asphalt Story
 
 ## In the Beginning
 
