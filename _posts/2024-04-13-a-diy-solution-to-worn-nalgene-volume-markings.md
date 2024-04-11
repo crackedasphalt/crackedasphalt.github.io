@@ -1,7 +1,7 @@
 ---
 title: "A DIY Solution to Worn Nalgene Volume Markings"
 permalink: /a-diy-solution-to-worn-nalgene-volume-markings/
-date: 2024-04-13T16:23:25-08:00
+date: 2024-04-11T12:22:21-08:00
 last_modified_at:
 author: Kevin
 published: true
