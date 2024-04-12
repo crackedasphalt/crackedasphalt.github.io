@@ -14,11 +14,27 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="">
+        <img src="{{ teaser | relative_url }}" alt=
+          {% if post.header.teaser_description %}
+            "{{ post.header.teaser_description }}"
+          {% elsif post.title %}
+            "{{ post.title }}""
+          {% else %}
+            ""
+          {% endif %}
+        >
       </div>
     {% elsif page.show_teasers == true %}
     <div class="archive__item-teaser">
-      <img src="{{ teaser | relative_url }}" alt="">
+      <img src="{{ teaser | relative_url }}" alt=
+        {% if post.header.teaser_description %}
+          "{{ post.header.teaser_description }}"
+        {% elsif post.title %}
+          "{{ post.title }}""
+        {% else %}
+          ""
+        {% endif %}      
+      >
     </div>
     {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline">
