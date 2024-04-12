@@ -21,13 +21,11 @@ sidebar: # Custom left sidebar options.
     - title: "Resources"
       url: /resources/
   sidebar_items:
-    - image: /assets/images/patterns/nalgene-liter-bottle-markings-svg-template/sample-template.jpg
-      image_alt: Depiction of the measurement decal # alt
-      text: # Some text here
     - title: Features # Another title
       text: |
+        - Restore measurement capabilities of your 1L Nalgene bottle
         - Measures metric and US customary volumes
-        - 100ml/2 fl. oz increments
+        - Intervals of 100ml/2 fl. oz increments
         - Up to 1 liter/32 oz
     - title: Dimensions # A third title
       text: 1.25" w x 5.6" h
@@ -59,6 +57,10 @@ The template is available in two formats, both the same size
 - One without any attribution
 
 Use whichever you wish ✌️
+
+<figure>
+  <img src="/assets/images/patterns/nalgene-liter-bottle-markings-svg-template/sample-template.jpg" alt="Depiction of the measurement decal template">
+</figure>
 
 ## Additional Information
 
