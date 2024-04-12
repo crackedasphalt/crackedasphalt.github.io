@@ -46,7 +46,7 @@ The Sailrite Ultrafeed LSZ-1 table template is available in two formats
 - Letter/A4 for print and tape at home
 - Tabloid/A3 which will also work on a large format printer
 
-Both are included in a single zip file.
+This download bundle includes both.
 
 ## Additional Information
 
@@ -60,7 +60,8 @@ If you have found this resource to be helpful, please consider [sharing a pictur
 
 The template is available for free via Payhip. Provide your email address when downloading to stay in touch or give us a fake email. Either way is fine.
 
-[<i class="fa-regular fa-circle-down"></i> Download for $0 at Payhip](https://payhip.com/b/ieTMb){: .btn .btn--info .btn--large}
+[<i class="fa-regular fa-circle-down"></i> Download for $0 at Payhip][pattern-download-url]{: .btn .btn--info .btn--large}
 
 [post-path]: {% link _posts/2023-02-18-custom-sewing-table-for-sailrite-ultrafeed.md %}
 [contact-path]: {% link _pages/contact.md %}
+[pattern-download-url]: https://payhip.com/b/ieTMb

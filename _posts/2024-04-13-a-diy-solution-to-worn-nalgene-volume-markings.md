@@ -79,7 +79,8 @@ I chose to cut this out in white vinyl on a Cricut that I have access to but I s
 
 Want to know how much water you're drinking?
 
-[<i class="fa-solid fa-bottle-water" aria-hidden="true"></i> Make your mark][template-path]{: .btn .btn--info .btn--large}
+[<i class="fa-solid fa-bottle-water" aria-hidden="true"></i> Download the template][pattern-download-url]{: .btn .btn--info .btn--large}
 
 [template-path]: {% link _patterns/one-liter-nalgene-bottle-volume-markings-svg-template.md %}
 [contact-page]: {% link _pages/contact.md %}
+[pattern-download-url]: https://payhip.com/b/IXFe8

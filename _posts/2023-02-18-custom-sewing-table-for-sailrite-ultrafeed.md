@@ -3,6 +3,7 @@ title: "Custom Sewing Table for Sailrite Ultrafeed"
 permalink: /custom-sewing-table-for-sailrite-ultrafeed/
 date: 2023-02-18T17:11:41-08:00
 last_modified_at: 2024-03-26T15:20:18-08:00
+published: true
 author: Kevin
 published: true
 description: "This custom table for our Sailrite Ultrafeed sewing machine is a major quality of life improvement." 	# For OG, not displayed on page
@@ -124,7 +125,7 @@ I am not a woodworker and the quality of the cuts make that abundantly clear. Fo
 
 Interested in doing something similar but having the same problem that I did finding an official cut template for your Sailrite Ultrafeed? Download the template that I created in the link below. Available in both large format/A0 and letter/A4.
 
-[Get the template][template-path]{: .btn .btn--info .btn--large}
+[Get the template][pattern-download-url]{: .btn .btn--info .btn--large}
 
 
 Footnotes
@@ -133,4 +134,4 @@ Footnotes
 [^1]: Sailrite table comes in at 47.5" W x 20" D [source](https://www.sailrite.com/Sailrite-Ultrafeed-Industrial-Sewing-Table).
 [^2]: [Via Sailrite](https://www.sailrite.com/Sailrite-Ultrafeed-Easy-Swap-Hinge-Set)
 
-[template-path]: {% link _patterns/sailrite-ultrafeed-lsz-1-table-template.md %}
+[pattern-download-url]: https://payhip.com/b/ieTMb

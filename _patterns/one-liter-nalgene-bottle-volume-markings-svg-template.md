@@ -58,20 +58,21 @@ The template is available in two formats, both the same size
 - One with Cracked Asphalt attribution
 - One without any attribution
 
-Use whichever you wish <i class="fa-regular fa-hand-peace"></i>
+Use whichever you wish ✌️
 
 ## Additional Information
 
-You can learn more about this svg file and template including how we installed the decal on our Nalgene [here](/a-diy-solution-to-worn-nalgene-volume-markings/).
+You can learn more about this svg file and template including how we installed the decal on our Nalgene [here][post-path].
 
 ## Send Pics
 
-If you have found this svg file helpful, please consider [sending us][contact-path] a picture of your project, tagging us on Instagram, or signing up for our mailing list to stay in touch.
+If you have found this resource helpful, please consider [sending us][contact-path] a picture of your project, tagging us on Instagram, or signing up for our mailing list to stay in touch.
 
 ## Download
 
-[<i class="fa-regular fa-circle-down"></i> Download for $0 from Payhip](https://payhip.com/b/IXFe8){: .btn .btn--info .btn--large}
+[<i class="fa-regular fa-circle-down"></i> Download for $0 from Payhip][pattern-download-url]{: .btn .btn--info .btn--large}
 
-
+[post-path]: {% link _posts/2024-04-13-a-diy-solution-to-worn-nalgene-volume-markings.md %}
 [contact-path]: {% link _pages/contact.md %}
+[pattern-download-url]: https://payhip.com/b/IXFe8
 
