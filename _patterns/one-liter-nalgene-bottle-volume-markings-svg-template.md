@@ -2,6 +2,9 @@
 title: "One Liter Nalgene Bottle Volume Markings SVG Template"
 permalink: /patterns/one-liter-nalgene-bottle-volume-markings-svg-template/
 excerpt: "This SVG file, when installed correctly, can help restore your ability to measure liquid volumes in your one liter Nalgene bottle."
+date: 2024-04-11T12:22:21-07:00
+last_modified_at:
+published: true
 header:
     show_overlay_excerpt: false
     image: /assets/images/patterns/nalgene-liter-bottle-markings-svg-template/nalgene-liter-bottle-markings-svg-template.jpg   # Twitter (use 'overlay_image')
