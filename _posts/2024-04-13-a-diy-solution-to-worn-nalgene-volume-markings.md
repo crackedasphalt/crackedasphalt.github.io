@@ -2,7 +2,7 @@
 title: "A DIY Solution to Worn Nalgene Volume Markings"
 permalink: /a-diy-solution-to-worn-nalgene-volume-markings/
 date: 2024-04-11T12:22:21-07:00
-last_modified_at:
+last_modified_at: 2024-04-11T12:22:21-07:00
 author: Kevin
 published: true
 excerpt: "This was such a common problem for my buddies and me that I spent an afternoon recreating the measurement scale and making a sticker of the graphic to replace the worn-away markings on my favorite bottles."
@@ -31,6 +31,7 @@ header:
     og_image: /assets/images/2024/04/13/a-diy-solution-to-worn-nalgene-volume-markings/a-diy-solution-to-worn-nalgene-volume-markings-og.jpg
     overlay_image: /assets/images/2024/04/13/a-diy-solution-to-worn-nalgene-volume-markings/a-diy-solution-to-worn-nalgene-volume-markings.jpg    # Article header at 2048x1024
     teaser: /assets/images/2024/04/13/a-diy-solution-to-worn-nalgene-volume-markings/a-diy-solution-to-worn-nalgene-volume-markings-th.jpg   # Shrink image to 575x288
+    teaser_description:  # Optional, used for alt tags for teasers
 ---
 
 <figure style="width: 150px" class="align-right">

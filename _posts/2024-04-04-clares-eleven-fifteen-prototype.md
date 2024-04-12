@@ -25,13 +25,14 @@ header:
     og_image: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype-og.jpg
     overlay_image: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype.jpg    # Article header at 2048x1024
     teaser: /assets/images/2024/04/04/clares-eleven-fifteen-prototype/clares-eleven-fifteen-prototype-th.jpg  # Shrink image to 575x288
+    teaser_description:  # Optional, used for alt tags for teasers
 ---
 
 <figure style="width: 300px" class="align-right">
 	<a href="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/01.jpg"><img src="/assets/images/2024/04/04/clares-eleven-fifteen-prototype/th-01.jpg" alt="Clare"></a>
 	<figcaption>Clare</figcaption>
 </figure>
-
+ 
 Clare's and my near daily walks over the years on the public footpaths that dot the countryside of her native England are some of my most cherished memories. On our daily disappearance in the fields and forests we trace canals and game trails, country lanes and livestock fences, and the boundaries of private property with such low precision it makes this American boy nervous that a farmer with a chip on his shoulder may actually confront us about our presence on his land. Against this backdrop, our walks are really about catching up. I see Clare only once a year these days and this time is a special and important part of each visit.
 
 On one such walk last September, her infant daughter in sling and the dog in tow, our conversation drifted to the various projects we are currently working on and, naturally, toward the activities we truly enjoy. Clare and her husband were in the process of opening a bakery in their small town and I let on that the pack I was carrying that day was designed and built myself. Although I hadn't planned to accept my first custom commission that day, she was convincing and specific in her ask and I was very happy to oblige.
