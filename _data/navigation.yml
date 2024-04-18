@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Patterns"
+    url: /patterns/
   - title: "Guides"
     url: /guides/
   - title: "About"
