@@ -2,7 +2,7 @@
 title: "Eleven Fifteen Daypack Sewing Pattern"
 permalink: /patterns/eleven-fifteen-daypack-sewing-pattern/
 excerpt: "The Eleven Fifteen Daypack is a 15 liter daily driver. It's our modern twist on the classic scramble pack: sleek, understated, & urban-ready. Make your own with this comprehensive sewing pattern."
-date: 2024-04-18T11:09:26-07:00
+date: 2024-04-18T00:04:46-07:00
 last_modified_at: 
 published: true
 header:
@@ -177,6 +177,6 @@ If you'd prefer a free copy, use this form to sign up and we'll send you one via
 
 {% include gallery id="gallery" layout="quarter" caption="[Share a picture of your Eleven Fifteen Daypack with us](/contact/)" %}
 
-[post-path]: {% link _posts/2024-04-18-introducing-the-eleven-fifteen-daypack-pattern.md %}
+[post-path]: {% link _posts/2024-04-18-introducing-the-eleven-fifteen-daypack.md %}
 [contact-path]: {% link _pages/contact.md %}
 [pattern-download-url]: https://payhip.com/b/DrXTa
