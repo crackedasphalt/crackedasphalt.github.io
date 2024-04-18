@@ -77,7 +77,7 @@ gallery: # This is the 'id'
     alt: "Front view of Eleven Fifteen Daypack on Kevin"
 ---
 
-After what feels like an eternity of meticulous planning, designing, sewing, and documenting, we are beyond thrilled to announce the release of the Eleven Fifteen Daypack. Inspired by our dear friend Clare's love for exploration, adventure, and intentional minimalism, this 15-liter daypack is designed to be simple, durable, versatile, and perfect for daily escapades.
+After what feels like an eternity of meticulous planning, designing, sewing, and documenting, we are beyond thrilled to announce the release of the Eleven Fifteen Daypack. Inspired by our dear friend Clare's love for exploration, adventure, and intentional minimalism, this 15-liter daypack is designed to be simple, durable, versatile, and perfect for daily capers.
 
 <figure style="width: 15em" class="align-right">
 	<a href="/assets/images/2024/04/18/introducing-the-eleven-fifteen-daypack/description-02.jpg"><img src="/assets/images/2024/04/18/introducing-the-eleven-fifteen-daypack/th-description-02.jpg" alt="Kevin using the Eleven Fifteen Daypack in black near the Castro in San Francisco"></a>
