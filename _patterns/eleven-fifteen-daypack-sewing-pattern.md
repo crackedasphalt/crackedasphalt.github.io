@@ -8,7 +8,7 @@ published: true
 header:
     show_overlay_excerpt: false
     image: /assets/images/patterns/eleven-fifteen-daypack-sewing-pattern/header.jpg            # Twitter (use 'overlay_image')
-    og_image: /assets/images/patterns/eleven-fifteen-daypack-sewing-pattern/header.jpg
+    og_image: /assets/images/patterns/eleven-fifteen-daypack-sewing-pattern/header-og.jpg
     teaser: /assets/images/patterns/eleven-fifteen-daypack-sewing-pattern/header-th.jpg  # Shrink image to 575x288
 sidebar: # Custom left sidebar options.
   nav_loc: false # true/false
