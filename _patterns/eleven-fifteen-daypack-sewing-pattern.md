@@ -141,9 +141,9 @@ We would love to see what you make with this pattern. If you have found this res
 
 ## Download
 
-The pattern is available for free to subscribers of our mailing list or, if you'd rather not hear from us, for $15 from Payhip.
+The pattern is available for free to subscribers of our mailing list or, if you'd rather not hear from us, for $10 from Payhip.
 
-[<i class="fa-regular fa-circle-down"></i> $15 at Payhip][pattern-download-url]{: .btn .btn--success .btn--large}
+[<i class="fa-regular fa-circle-down"></i> $10 at Payhip][pattern-download-url]{: .btn .btn--success .btn--large}
 
 Note: If you would like to receive future revisions of this pattern, please provide us with a valid email address.<br><br>Additional note for residents of the EU and UK: You're surely aware, but GDPR requires that we ask for your consent to send you email. Choose opt in during checkout to ensure you receive updates on this pattern when they are released.
 {: .notice--success}
