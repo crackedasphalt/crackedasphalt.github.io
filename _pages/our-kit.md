@@ -96,7 +96,7 @@ Our kit is modest but functional. Working from a small space means having a smal
 
 ## Other
 
-| [Table](table-post-path) | Sturdy table for sewing and cutting projects. |
+| [Table][table-post-path] | Sturdy table for sewing and cutting projects. |
 | Cutting Table | Dedicated surface for fabric cutting. |
 | Dowel | Used for rolling and unrolling fabrics. |
 | Assorted Dairy Product Cups with Lids | For organizing and storing small notions and tools. |
