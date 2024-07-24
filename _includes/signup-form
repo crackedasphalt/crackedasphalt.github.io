@@ -8,7 +8,7 @@
             <ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
             <input class="input-half" name="fields[first_name]" required="" placeholder="First Name" type="text">
             <input class="input-half" name="email_address" placeholder="Email Address" required="" type="email">
-            <button data-element="submit" class="btn btn--success btn--large">
+            <br><button data-element="submit" class="btn btn--success btn--large">
                 <span class="">Subscribe</span>
             </button>
         </div>
