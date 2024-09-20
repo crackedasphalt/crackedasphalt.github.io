@@ -53,8 +53,8 @@ The file can be cut at home if you have access to a vinyl cutter.
 ## Formats
 
 The template is available in two formats, both the same size 
-- One with Cracked Asphalt attribution
-- One without any attribution
+- One with Cracked Asphalt attribution (free)
+- One without any attribution ($1)
 
 Use whichever you wish ✌️
 
