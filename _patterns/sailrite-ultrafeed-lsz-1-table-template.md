@@ -30,6 +30,19 @@ sidebar: # Custom left sidebar options.
       text: Nobody at Cracked Asphalt is a woodworker and this turned out alright. Take your time and watch your fingers. # more text still
     - title: # An extra title just to show nav=true. This is where the nav bar (if enabled) will go.
       nav: false # references a given key in _data/navigation.yml so make sure they match or leverage sidebar.loc=true/false
+gallery:
+  - url: /assets/images/patterns/sailrite-ultrafeed-lsz-1-table-template/gallery/01.jpg
+    image_path: /assets/images/patterns/sailrite-ultrafeed-lsz-1-table-template/gallery/th-01.jpg
+    alt: "Finished sewing table"
+    title: "Credit: Brad B, in North Carolina"
+  - url: /assets/images/patterns/sailrite-ultrafeed-lsz-1-table-template/gallery/02.jpg
+    image_path: /assets/images/patterns/sailrite-ultrafeed-lsz-1-table-template/gallery/th-02.jpg
+    alt: "Table with template applied"
+    title: "Credit: Brad B, in North Carolina"
+  - url: /assets/images/patterns/sailrite-ultrafeed-lsz-1-table-template/gallery/03.jpg
+    image_path: /assets/images/patterns/sailrite-ultrafeed-lsz-1-table-template/gallery/th-03.jpg
+    alt: "Table with new hole"
+    title: "Credit: Brad B, in North Carolina"
 ---
 
 We spent hours and hours meticulously measuring and refining this template to take the guess work out of cutting and routing a hole in our sewing table. We hope you find it useful.
@@ -55,6 +68,9 @@ You can learn more about this template, why we made it, and how we used it to ma
 ## Send Pics
 
 If you have found this resource to be helpful, please consider [sharing a picture][contact-path] of your project, signing up for our mailing list, or just saying hi.
+
+{% include gallery id="gallery" caption="Some table examples we've received from friends of Cracked Asphalt" %}
+
 
 ## Download
 
