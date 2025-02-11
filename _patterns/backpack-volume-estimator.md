@@ -9,7 +9,7 @@ header:
     og_image: /assets/images/patterns/backpack-volume-estimator/header-og.jpg
     overlay_image: /assets/images/patterns/backpack-volume-estimator/header.jpg    # Article header at 2048x1024
     teaser: /assets/images/patterns/backpack-volume-estimator/header-th.jpg   # Shrink image to 575x288
-date: 2025-02-10T17:52:34-07:00
+date: 2025-02-11T09:47:13-07:00
 last_modified_at: 
 published: true
 toc: true
@@ -140,7 +140,7 @@ Backpack volume is notoriously difficult to measure precisely, as it depends on 
 
 ### How does it work?
 
-#### 1. Cube Method
+#### Cube Method
 The simplest way to calculate volume is to multiply the **height × width × depth** of the pack:
 
 <p>
@@ -151,24 +151,24 @@ The simplest way to calculate volume is to multiply the **height × width × dep
 
 This assumes that the pack is a **perfect rectangular prism**. However, packs are never perfectly box-shaped and this method does not account for factors such as rounded edges, tapering, or bulging that could affect actual capacity in real terms. A pack with significant tapering may have less usable volume than this method suggests, while a pack that bulges outward when stuffed may have more usable space than expected.
 
-#### **2. Cylinder Method**
+#### Cylinder Method
 To provide an alternative estimation, we also approximate the pack as a **cylinder** with an equivalent circumference and height:
 
-1. **Estimate the circumference of the pack when fully stuffed**:
+- **Estimate the circumference of the pack when fully stuffed**:
   <p>
     \[ 
       C = 2 \times ( \text{Depth} + \text{Width} )
     \]
   </p>
 
-1. **Solve for the radius** assuming a cylindrical cross-section:
+- **Solve for the radius** assuming a cylindrical cross-section:
   <p>
     \[
       r = \frac{C}{2\pi}
     \]
   </p>
 
-1. **Calculate the cylinder’s volume**:
+- **Calculate the cylinder’s volume**:
   <p>
     \[
       V_{\text{cylinder}} = \pi r^2 \times \text{Height}
@@ -177,7 +177,7 @@ To provide an alternative estimation, we also approximate the pack as a **cylind
 
 Since cylinders maximize volume for a given perimeter, this method may sometimes suggest a larger capacity than what is actually usable. The assumption of a perfect cylindrical shape may not reflect how a pack fills out in real-world use, especially if it has rigid elements or is packed unevenly.
 
-#### 3. Averaging Both Methods (Balanced Estimate)
+#### Averaging Both Methods (Balanced Estimate)
 Since neither the **Cube Method** nor the **Cylinder Method** fully accounts for all possible pack shapes, we average them to get a practical, **middle-ground estimate**:
 
 <p>
@@ -211,15 +211,15 @@ This method strikes a balance between simplicity and accuracy, giving results wi
 
 ### Assumptions We Made
 
-#### 1. The pack is roughly a rectangular or cylindrical shape
+#### The pack is roughly a rectangular or cylindrical shape
    - This method works well for frameless or lightly structured packs.
    - Rigid external-frame packs might have more wasted space than this method accounts for.
 
-#### 2. Packs bulge when filled, but not into a perfect cylinder
+#### Packs bulge when filled, but not into a perfect cylinder
    - The cylinder method accounts for bulging that the cube method does not.
    - Most packs do not hold a perfect box shape when loaded.
 
-#### 3. Small external pockets are not counted
+#### Small external pockets are not counted
    - If you want to include side pockets, hip belt pockets, or lid pockets, add their estimated volume separately.
    - Many commercial packs include pockets in their stated volume (but not always consistently).
 
