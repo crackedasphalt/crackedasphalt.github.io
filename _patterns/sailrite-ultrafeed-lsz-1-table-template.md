@@ -3,7 +3,7 @@ title: "Template for Sailrite Ultrafeed LSZ-1 Table"
 permalink: /patterns/sailrite-ultrafeed-lsz-1-table-template/
 excerpt: "This template can help you to trace and cut the correct size hole in a table or other surface to flush-mount accommodate a Sailrite Ultrafeed LSZ-1."
 date: 2023-02-18T17:11:41-08:00
-last_modified_at: 2024-03-26T15:20:18-08:00
+last_modified_at: 2025-02-10T20:01:16-07:00
 published: true
 header:
     show_overlay_excerpt: false
