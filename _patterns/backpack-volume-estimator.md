@@ -11,7 +11,7 @@ header:
     teaser: /assets/images/patterns/backpack-volume-estimator/header-th.jpg   # Shrink image to 575x288
 date: 2025-02-11T09:47:13-07:00
 last_modified_at: 
-published: true
+published: false
 toc: true
 author_profile: true
 author: Kevin
