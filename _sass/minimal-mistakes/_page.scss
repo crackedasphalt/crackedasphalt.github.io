@@ -120,6 +120,11 @@ body {
   font-size: $type-size-4;
 }
 
+.page__lead__sub {
+  font-family: $global-font-family;
+  font-size: $type-size-6;
+}
+
 .page__content {
   h2 {
     padding-bottom: 0.5em;
@@ -255,13 +260,14 @@ body {
     .page__title,
     .page__meta,
     .page__lead,
+    .page__lead__sub,
     .btn {
       color: #fff;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
     .page__lead {
-      max-width: $medium;
+      max-width: $large;
     }
 
     .page__title {
