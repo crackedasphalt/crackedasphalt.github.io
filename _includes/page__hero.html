@@ -18,11 +18,16 @@
 
 {% assign image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
 
-<div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
-  style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}"
+<div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% if page.header.overlay_mode == "full" and page.header.overlay_image %} overlay-full{% endif %}{% endif %}"
+  style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}{% if page.header.overlay_mode != "full" %}background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% else %}{% if overlay_filter %}--overlay-filter: {{ overlay_filter }};{% endif %}{% endif %}{% endif %}"
 >
   {% if page.header.overlay_color or page.header.overlay_image %}
+    {% if page.header.overlay_mode == "full" and page.header.overlay_image %}
+      <img src="{{ overlay_img_path }}" alt="{{ image_description }}" class="overlay-full__img" />
+      <div class="overlay-full__content wrapper">
+    {% else %}
     <div class="wrapper">
+    {% endif %}
       {% if page.header.hide_title != true %}
         <h1 id="page-title" class="page__title" itemprop="headline">
           {% if paginator and site.paginate_show_page_num %}
