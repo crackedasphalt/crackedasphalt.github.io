@@ -1,12 +1,12 @@
 ---
 title: "Introducing The Eleven Fifteen Daypack"
 permalink: /introducing-the-eleven-fifteen-daypack/
+redirect_from: /introducing-the-eleven-fifteen-daypack-pattern/
 date: 2024-04-18T00:04:29-07:00
 last_modified_at: 
 author: Kevin
 published: true
 excerpt: "The Eleven Fifteen Daypack is a 15-liter daypack designed to be simple, durable, versatile, and perfect for your daily escapades." 	# For OG, not displayed on page
-redirect_from: 
 categories:
     - Guides
     # Choose one of the below
