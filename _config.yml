@@ -318,7 +318,7 @@ defaults:
       excerpt:
       header:
         show_overlay_excerpt: false
-        overlay_color: "#546375" #"#5e616c"
+        overlay_color: "#3F536B" #"#5e616c"
         overlay_filter: 0.2
   # _pages
   - scope:
@@ -329,7 +329,7 @@ defaults:
       author_profile: false
       header:
         show_overlay_excerpt: true
-        overlay_color: "#546375" #"#5e616c"
+        overlay_color: "#3F536B" #"#5e616c"
         overlay_filter: .5
         overlay_image: /assets/images/home/home-page-overlay.jpg
         og_image: /assets/images/home/home-page-overlay-og.jpg

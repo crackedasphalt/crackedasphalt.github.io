@@ -5,19 +5,19 @@
 /* Colors */
 $background-color: #FFFFFF !default;
 $text-color: #222831 !default;
-$primary-color: #546375 !default;
-$border-color: mix(#fff, #5B6E5C, 75%) !default;
-$footer-background-color: #ACB9BF !default;
+$primary-color: #3F536B !default;
+$border-color: mix(#fff, #4F7C58, 75%) !default;
+$footer-background-color: #C3D0D6 !default;
 $form-background-color: $footer-background-color !default;
 $form-legend-color: $background-color !default;
-$masthead-link-color: #546375 !default;
+$masthead-link-color: #3F536B !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
-$success-color              : #5B6E5C !default;
-$warning-color              : #e67e22 !default;
-$danger-color               : #725857 !default;
-$info-color                 : #546375 !default;
+$success-color              : #4F7C58 !default;
+$warning-color              : #D9745E !default;
+$danger-color               : #8C5B52 !default;
+$info-color                 : #3F536B !default;
 
 .page__footer {
   color: #fff !important; // override
